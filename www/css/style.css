@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+
+.input-no-error {
+  border-bottom:1px solid green !important;
+}
+.input-with-error {
+  border-bottom:2px solid red !important;
+  margin-top:-6px;
+}
+.error-mgs-container {
+  color:red;
+  text-align: right;
+
+}
